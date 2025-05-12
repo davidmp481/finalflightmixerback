@@ -5,3 +5,4 @@ httpx
 python-jose
 passlib[bcrypt]
 stripe
+python-multipart
